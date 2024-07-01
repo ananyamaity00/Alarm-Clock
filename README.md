@@ -1,7 +1,7 @@
 # Alarm-Clock
+# A Python alarm clock lets you set timers to alert you at specific times.
 
 import datetime
-
 from playsound import playsound
 
 alarmHour = int(input("Enter Hour: "))
